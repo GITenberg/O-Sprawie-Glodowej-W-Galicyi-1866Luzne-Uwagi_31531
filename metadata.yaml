@@ -1,0 +1,30 @@
+_repo: O-Sprawie-Glodowej-W-Galicyi-1866Luzne-Uwagi_31531
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Langie, Karol
+    birthdate: 1814
+    deathdate: 1889
+    gutenberg_agent_id: '35301'
+    url: http://www.gutenberg.org/2009/agents/35301
+description: ''
+gutenberg_issued: '2010-03-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31531'
+language: pl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Famines -- Galicia (Poland and Ukraine)'
+- !lcsh 'Galicia (Poland and Ukraine) -- Economic conditions -- 19th century'
+- !lcc 'HC'
+- !lcsh 'Natural disasters -- Galicia (Poland and Ukraine)'
+title: 'O Sprawie Glodowej W Galicyi 1866
+
+  Luzne Uwagi'
+url: http://www.gutenberg.org/ebooks/31531
